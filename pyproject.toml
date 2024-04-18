@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "3.11.2"
 pytest = "^8.1.1"
+mip = "^1.15.0"
 
 
 [build-system]
